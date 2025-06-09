@@ -1,3 +1,5 @@
+CAUTION: Compiler optimization turned to 11. Use stable toolchain. Recommend Google AOSP clang 17.0.4.
+
 Linux kernel
 ============
 
